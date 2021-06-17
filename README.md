@@ -8,4 +8,4 @@ A simple landing page design using Winbox
 
 # Screenshots
 
-![Screenshot](screens/screen1.png)
+![Screenshot](screens/screen1.jpg)
